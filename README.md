@@ -15,3 +15,10 @@ Me chamo Sara, sou desenvolvedora de sistemas e cientista de dados. Atuei como i
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Estatísticas
+![saramariasantosdev's Stats](https://github-readme-stats.vercel.app/api?username=saramariasantosdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![saramariasantosdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saramariasantosdev&theme=vue-dark&hide_border=true)
+
+## Percentual de uso
+![saramariasantosdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saramariasantosdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
