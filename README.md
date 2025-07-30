@@ -1,24 +1,21 @@
-## Olá 👩‍💻
-Me chamo Sara, sou desenvolvedora de sistemas e cientista de dados. Atuei como instrutora de informática, programação e análise de dados. Conforme os estudos e aplicabilidade de cada linguagem e framework aprendido serão expostos neste github os projetos referentes a eles e consequentemente serão adicionados ao Readme. Embora eu já tenha feito faculdade de análise e desenvolvimento de sistemas, e também seja pós-graduada em ciência de dados, eu estou sempre aprendendo e revisando o que aprendi, além de me desafiar a aprender sempre novas tecnologias. Aqui serão expostos projetos cujas tecnologias usadas sejam realmente de meu total conhecimento teórico e prático.
+Olá! Boas vindas ao meu Github 👩‍💻
 
-## Tecnologias
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+Sou desenvolvedora Back-end e professora de programação.
 
-## IDE's/Editores
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Iniciei a minha trajetória profissional em 2014, quando comecei a faculdade de Comunicação Social e me formei em 2018. 
 
-## Estatísticas
-![saramariasantosdev's Stats](https://github-readme-stats.vercel.app/api?username=saramariasantosdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![saramariasantosdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saramariasantosdev&theme=vue-dark&hide_border=true)
+No ano de 2021, dei início aos estudos na área de desenvolvimento de sistemas ingressando no curso de tecnólogo em Análise e Desenvolvimento de Sistemas, durante o curso tive meu primeiro contato com as linguagens de programação: C++, Java e Javascript. No mesmo curso aprendi a desenvolver sites utilizando HTML5 e CSS3. 
 
-## Percentual de uso
-![saramariasantosdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saramariasantosdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+Durante o curso de tecnólogo fui apresentada as metodologias ágeis e pude aprender sobre Scrum e Kanban esse aprendizado foi obtido durante a realização do projeto integrador onde pude ter contato com ferramentas de gestão de projetos como Jira e Trello.
+
+Ao término do curso iniciei, em 2024, minha pós-graduação lato-sensu em Data Science, nela pude ter mais contato com a linguagem Python e suas bibliotecas aplicadas ao Machine Learning e Deep Learning, também aprendi mais sobre banco de dados relacionais e SQL. Foi um experiência enriquecedora.
+
+De 2023 á 2024 atuei como instrutora de informática e programação, foi a minha experiência profissional. Com certeza fez total diferença em minha vida, nela pude adquirir habilidades de comunicação e liderança. Ter sido professora acentuou ainda mais o meu lado colaborativo. Pode dizer que hoje trabalho bem em equipe propondo ideias, colaborando com os demais membros e buscando trazer soluções rápidas e eficazes para os problemas que podem surgir.
+
+Atualmente estou me especializando em C# e PHP, além de estar aprimorando meus conhecimentos em Java e Python, como por exemplo uso de frameworks como: .NET, Laravel, Spring Boot e Django. Todo o conhecimento que estou adquirindo vem das formações da instituição de ensino, Alura. O meu progresso pode ser acompanhado em meu repositório no GitHub, o qual prezo por deixá-lo organizado e muito bem explicado.
+
+Por fim, quero destacar que estou iniciando os estudos em DevOps buscando compreender e aprender sua aplicabilidade para que junto ao conhecimento adquirido das linguagens e frameworks possam agregar em meu futuro emprego como desenvolvedora de software, também compreendo a importância de se ter conhecimento em Linux, portanto também faz parte dos meus estudos, assim posso contribuir melhor para desenvolver sistemas multiplataformas.
+
+Contato: 
+
+Email: contatosaracsantos@gmail.com
